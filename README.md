@@ -5,6 +5,8 @@ AI小说生成器 v2.0.0 - 真正免费的AI创作工具
 AI小说生成器是一款基于Electron开发的桌面应用，通过集成DeepSeek网页版实现完全免费的AI小说创作功能。无需购买API、无需高配置硬件，只需一个DeepSeek账号即可开始您的创作之旅。
 # 下载链接
 链接：https://pan.xunlei.com/s/VOiCWqJe4vrnS5_A9DutsnvHA1?pwd=rabr# 复制这段内容后打开「手机迅雷 App」即可获取。无需下载在线查看，视频原画享倍速播放
+我用夸克网盘分享了「AI写小说.zip」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
+链接：https://pan.quark.cn/s/686d749a9595
 核心特性
 完全免费使用DeepSeek网页版进行AI创作
 智能章节大纲生成
